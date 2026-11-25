@@ -18,5 +18,5 @@ Use the following naming format for Order Guide files:
 
 **Examples:**
 
-- `2027-Ford-Mustang-Order-Guide-26-11-25.pdf`
+- `2027-Ford-Super-Duty-Order-Guide-26-10-20.pdf`
 - `2026-Lincoln-Navigator-Order-Guide-26-10-15.pdf`
